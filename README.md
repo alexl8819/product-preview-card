@@ -12,7 +12,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Built with](#built-with)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 
 ## Overview
 
@@ -25,11 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenshot.png)
+![Desktop Screenshot](./screenshots/desktop.png)
+![Mobile Screenshot](./screenshots/mobile.png)
 
 ### Links
 
-- Live Site URL: [https://slightlyfunctional.gitlab.io/product-preview-card/](https://slightlyfunctional.gitlab.io/product-preview-card/)
+- Live Site URL: [https://slightlyfunctional.gitlab.io/product-preview-card/](https://alexl8819.github.io/product-preview-card/)
 
 ## My process
 
@@ -49,8 +49,3 @@ I want to get more comfortable writing CSS using BEM methodology without relying
 ### Useful resources
 
 - [Native Responsive Images](https://dev.opera.com/articles/native-responsive-images/) - This is an interesting article from one of the developers on the Opera team explaining the usage behavior of the `picture` and `img` elements 
-
-## Author
-
-- Website - [slightlyfunctional.com](https://slightlyfunctional.com)
-- Frontend Mentor - [@slightlyfunctional](https://www.frontendmentor.io/profile/slightlyfunctional)
